@@ -37,9 +37,3 @@ A multiplayer Discord survival game inspired by **The Hunger Games**.
 Become a **Computer Science Engineer** and build increasingly complex software projects.
 
 ---
-
-## 📊 GitHub
-
-![Yvanss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yvanss971&show_icons=true&theme=tokyonight)
-
----
